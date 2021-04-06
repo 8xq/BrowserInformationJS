@@ -7,7 +7,7 @@ Note JS must be enabled in the browser to grab information
 To grab information on the "GPU" openGL is also needed :)
 ```
 
-# Potential changes
+## Potential changes 
 ```
 Detect Ad-blocker (plugins)
 Detect Tablets / Desktops
