@@ -19,6 +19,9 @@ Get information on current user permissions
 ![Alt text](https://i.imgur.com/SL1ie9v.png "Example")
 ![Alt text](https://i.imgur.com/EE32Fkg.png "Example")
 
+[Preview](https://mystifying-euler-764f4f.netlify.app/)\
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aa81dfd0-0b56-44fd-854d-fef855b8f53a/deploy-status)](https://app.netlify.com/sites/mystifying-euler-764f4f/deploys)
+
 
 ```
 Admin@hvh.site
